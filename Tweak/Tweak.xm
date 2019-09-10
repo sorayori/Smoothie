@@ -11,7 +11,7 @@
 -(void)updateIconListIndexAndVisibility:(bool)x {}
 
 -(BOOL)allowsAutoscrollToTodayView {
-    return NO;
+    return YES;
 }
 
 %end
